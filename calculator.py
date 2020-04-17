@@ -25,6 +25,5 @@ def square(x):
 def power(x, y):
     return x ** y
 
-
 def sqrt(x):
     return x **(.5)
